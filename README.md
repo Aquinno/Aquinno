@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aquinno
 - 👀 I’m interested in Back-End
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Pandas
 - 📫 How to reach me: vinicius.aquino@estudante.ufcg.edu.br
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a EDH Magic The Gathering player🤓
