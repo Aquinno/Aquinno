@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/-Email-important?logo=gmail&logoColor=white&style=flat)](mailto:vinicius.aquino@estudante.ufcg.edu.br)
 ---
 ### 🎮 Fun Stuff:
-I'm always up for a round of Magic: The Gathering. Casual EDH is my jam!✨
+I'm always up for a round of Magic: The Gathering. Casual EDH is my jam!💀💧
 
 <!---
 Aquinno/Aquinno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
