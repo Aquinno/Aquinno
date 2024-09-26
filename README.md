@@ -8,9 +8,6 @@
    ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  
    ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ---
-### 💻 Technologies I work with:
-- I wish Python, one day. :D
----
 ### 📫 Contact me: 
 [![Email](https://img.shields.io/badge/-Email-important?logo=gmail&logoColor=white&style=flat)](mailto:vinicius.aquino@estudante.ufcg.edu.br)
 ---
