@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @Aquinno!
+# 👋 Hello, I'm Aquinno!
 
 ---
 
