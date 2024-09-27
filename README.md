@@ -9,7 +9,7 @@
    ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ---
 ### 📫 Contact me: 
-[![Email](https://img.shields.io/badge/-Email-important?logo=gmail&logoColor=white&style=flat)](mailto:vinicius.aquino@estudante.ufcg.edu.br)
+- [![Email](https://img.shields.io/badge/-Email-important?logo=gmail&logoColor=white&style=flat)](mailto:vinicius.aquino@estudante.ufcg.edu.br)
 ---
 ### 🎮 Fun Stuff:
 I'm always up for a round of Magic: The Gathering. Casual EDH is my jam!💀💧
