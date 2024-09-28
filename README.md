@@ -2,7 +2,7 @@
 
 ---
 
-### About Me:
+### 📋 About Me:
 - 👀 **Back-End Enthusiast**
 - 🌱 **Currently Learning**:  
    ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
