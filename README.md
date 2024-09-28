@@ -5,8 +5,8 @@
 ### About Me:
 - 👀 **Back-End Enthusiast**
 - 🌱 **Currently Learning**:  
-   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  
-   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
+   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
+   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
    ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)
    
 ---
