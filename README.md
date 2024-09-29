@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello, I'm Aquinno!</h1>
 
----
-
 ### 📋 About Me:
 - 👀 **Back-End Enthusiast**
 - 🌱 **Currently Learning**:  
