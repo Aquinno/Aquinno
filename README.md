@@ -3,7 +3,7 @@
 ### 📋 About Me:
 - 👀 **Back-End Enthusiast**
 - 🌱 **Currently Learning**:
-   ![C#](https://img.shields.io/badge/-Python-blue?logo=c#&logoColor=white&style=flat) 
+   ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
    ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
    ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
    
