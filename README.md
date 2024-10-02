@@ -1,12 +1,27 @@
 <h1 align="center">👋 Hello, I'm Aquinno!</h1>
 
-### 📋 About Me:
-- 👀 **Back-End Enthusiast**
-- 🌱 **Currently Learning**:
-   ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
-   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-   
+---
+
+<p align="center">
+  <table>
+    <tr>
+      <th>⭐ Skills</th>
+      <th>🌱 Beginner</th>
+      <th>📚 Learning</th>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat">
+        <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">
+      </td>
+    </tr>
+  </table>
+</p>
+
 ---
 
 ### 📫 Contact me: 
@@ -16,6 +31,9 @@
 
 ### 🎮 Fun Stuff:
 I'm always up for a round of Magic: The Gathering. Casual EDH is my jam! 💀💧
+
+
+
 
 
 
