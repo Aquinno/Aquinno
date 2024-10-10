@@ -16,7 +16,7 @@
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/-C%23-1b8129?logo=c-sharp&logoColor=white&style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/badge/-Pandas-7f14a2?logo=pandas&logoColor=white&style=for-the-badge">
       </td>
     </tr>
   </table>
