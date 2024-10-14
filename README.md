@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Aquinno! <img src="https://i.pinimg.com/originals/be/71/cd/be71cda28a8c78ee7c2923a1e6b52bdb.gif" alt="GIF" width="80"></h1>
+<h1 align="left">👋 Hello, I'm Aquinno!</h1>
 
 ---
 
