@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Contact me: 
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vinicius.aquino@estudante.ufcg.edu.br)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vinicius.aquino@estudante.ufcg.edu.br)
 
 ---
 
