@@ -31,7 +31,7 @@
   <a href="https://discordapp.com/users/332331067920875521 " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:vinicius.aquino@estudante.ufcg.edu.br" target="_blank">
+  <a href="mailto:vinicius.aquino@estudante.ufcg.edu.br"></a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
