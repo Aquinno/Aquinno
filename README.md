@@ -44,4 +44,4 @@
 ###
 
 <h2>🎮 Fun Stuff</h2>
-I'm always up for a round of Magic: The Gathering. Casual EDH is my jam! 💀💧
+I'm always up for a round of Flesh and Blood TCG!
